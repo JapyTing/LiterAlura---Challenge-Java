@@ -18,6 +18,14 @@ Este proyecto es el resultado del challenge realizado en base a los criterios es
 - `MYSQL`: Se uso para crear las funciones del CRUD
 
 
-## Menu
+## Menu 📝
 
 ![menu](https://github.com/JapyTing/LiterAlura---Challenge-Java/assets/115281136/71819318-7018-4f5d-9ea5-2feb19b3dac3)
+
+## Agregar libro 📕
+
+![agregar](https://github.com/JapyTing/LiterAlura---Challenge-Java/assets/115281136/c86e0e0b-aa5c-43e7-8aa4-158e7945184a)
+
+## Buscar Libros Agregados 🔍
+
+![buscar](https://github.com/JapyTing/LiterAlura---Challenge-Java/assets/115281136/13340e1b-327a-4bd8-ae94-cd262748c875)
